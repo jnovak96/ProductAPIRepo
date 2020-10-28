@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "e30b494c-3cf3-416f-82e5-a6e9ce8e841e",
+		"name": "productsapp-automation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get All Products",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Second Endpoint",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
